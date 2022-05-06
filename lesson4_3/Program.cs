@@ -8,6 +8,7 @@
  * (старый массив, остается без изменений), 
  * метод Multi, умножающий каждый элемент массива на определённое число,
  * свойство MaxCount, возвращающее количество максимальных элементов.
+ * б) Добавьте статический метод для считывания массива из текстового файла. Метод должен возвращать массив целых чисел;
  */
 
 using System;
@@ -54,7 +55,17 @@ namespace lesson4_3
             Console.WriteLine("Max number in array: " + a.MaxNumber + "");
 
 
+
+            string FileNameIN = "..\\..\\myArray.txt";
+            ClassArray myArray = new ClassArray(FileNameIN);
+            Console.WriteLine("Load array from file: " + FileNameIN);
+            Console.WriteLine(myArray.ToString());
+
+            
+
+
             Console.ReadLine();
+
         }
         }
 
