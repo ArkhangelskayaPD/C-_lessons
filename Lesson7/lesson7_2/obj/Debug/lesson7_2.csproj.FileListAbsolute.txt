@@ -1,0 +1,11 @@
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\bin\Debug\lesson7_2.exe.config
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\bin\Debug\lesson7_2.exe
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\bin\Debug\lesson7_2.pdb
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.csproj.AssemblyReference.cache
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.Form1.resources
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.Properties.Resources.resources
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.csproj.GenerateResource.cache
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.csproj.CoreCompileInputs.cache
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.exe
+C:\Users\parkhangelskaya\Downloads\Lesson7\Lesson7\lesson7_2\obj\Debug\lesson7_2.pdb
