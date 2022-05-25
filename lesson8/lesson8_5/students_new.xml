@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <StudentInfo>
+    <Name>Никита</Name>
+    <Surname>Смирнов</Surname>
+    <University>ФИНЭК</University>
+    <Faculty>экономический</Faculty>
+    <Department>науч</Department>
+    <Age>20</Age>
+    <Course>4</Course>
+    <Group>3</Group>
+    <City>Санкт-Петербург</City>
+  </StudentInfo>
+  <StudentInfo>
+    <Name>Дмитрий</Name>
+    <Surname>Алексеев</Surname>
+    <University>СПБГУ</University>
+    <Faculty>филологический</Faculty>
+    <Department>английский язык</Department>
+    <Age>23</Age>
+    <Course>6</Course>
+    <Group>2</Group>
+    <City>Пермь</City>
+  </StudentInfo>
+  <StudentInfo>
+    <Name>Екатерина</Name>
+    <Surname>Семенова</Surname>
+    <University>ФИНЭК</University>
+    <Faculty>экономический</Faculty>
+    <Department>науч</Department>
+    <Age>22</Age>
+    <Course>1</Course>
+    <Group>2</Group>
+    <City>Москва</City>
+  </StudentInfo>
+  <StudentInfo>
+    <Name>Валерий</Name>
+    <Surname>Семенов</Surname>
+    <University>СПБГУ</University>
+    <Faculty>филологический</Faculty>
+    <Department>скандинавские языки</Department>
+    <Age>23</Age>
+    <Course>6</Course>
+    <Group>1</Group>
+    <City>Москва</City>
+  </StudentInfo>
+  <StudentInfo>
+    <Name>Геннадий</Name>
+    <Surname>Чебурашкин</Surname>
+    <University>СПБГУ</University>
+    <Faculty>экономический</Faculty>
+    <Department>бухгалтерия</Department>
+    <Age>18</Age>
+    <Course>1</Course>
+    <Group>3</Group>
+    <City>Сызрань</City>
+  </StudentInfo>
+  <StudentInfo>
+    <Name>Алена</Name>
+    <Surname>Савина</Surname>
+    <University>СПБГАСУ</University>
+    <Faculty>архитектурный</Faculty>
+    <Department>ландшафтный дизайн</Department>
+    <Age>19</Age>
+    <Course>1</Course>
+    <Group>3</Group>
+    <City>Санкт-Петербург</City>
+  </StudentInfo>
+</Students>
